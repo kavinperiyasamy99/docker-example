@@ -1,7 +1,7 @@
 
 
 node {
-  def app_name = 'docker-example'
+  def app_name = 'kavin24/dockerwebapp'
   def registry_url = 'https://registry.hub.docker.com'
   def registry_creds = 'dockerHub'
   def app_env = 'goomo-dev'
